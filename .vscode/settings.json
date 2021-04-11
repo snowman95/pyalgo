@@ -1,0 +1,8 @@
+{
+	"python.pythonPath": "C:\\Users\\hoon\\anaconda3\\envs\\algo\\python.exe",
+	"terminal.integrated.shell.windows":"C:\\Windows\\System32\\cmd.exe",
+	"terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\hoon\\anaconda3\\Scripts\\activate.bat C:\\Users\\hoon\\anaconda3 & conda activate algo"],
+	"code-runner.executorMap": { 
+		"python": "C:\\Users\\hoon\\anaconda3\\Scripts\\activate.bat C:\\Users\\hoon\\anaconda3 & conda activate algo & python"
+	 }
+}
