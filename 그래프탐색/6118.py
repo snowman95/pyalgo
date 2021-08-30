@@ -43,7 +43,6 @@ visited[1] = 0
 l = 0
 ans = 1
 for i in range(2,n+1):
-    print(i)
     if visited[i] > l:
         ans = i
         l = visited[i]
