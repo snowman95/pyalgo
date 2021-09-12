@@ -190,7 +190,8 @@ def solution(orders, course):
                 arr.append(menu)
         answer+=arr
 
-    print(sorted(answer))
+    answer.sort()  
+    return answer
 o = ["ABCDE", "AB", "CD", "ADE", "XYZ", "XYZ", "ACD"]
 c = [2,3,5]
 solution(o,c)
